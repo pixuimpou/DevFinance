@@ -1,7 +1,7 @@
 # DevFinance
 Aplicação de controle financeiro em HTML, CSS e Javascript
 
-criada seguindo o tutorial da Maratona Discovery da RocketSeat
+Criada seguindo o tutorial da Maratona Discovery da RocketSeat
 
 ## Instalação
 
